@@ -10,3 +10,4 @@ Games Details Backend Application
 3: For all three API user need to pass x-api-key to access, random access is not allowed without API KEY authentication.
 4: Django default admin can access all details and can be able to perform crud operations.
 5: User is allowed to access get API only.
+6: Attched screenshots of postman for reference to API's responses
